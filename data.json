@@ -3553,17 +3553,6 @@
           },
           "errors": {}
         },
-        "scratch": {
-          "supportsES6": true,
-          "baseline": "ReferenceError: print is not defined",
-          "relative": {},
-          "raw": {},
-          "elapsed": {},
-          "count": {},
-          "errors": {
-            "es6": "baseline failed: ReferenceError: print is not defined"
-          }
-        },
         "spread-super": {
           "supportsES6": true,
           "baseline": 44025709.82961457,
@@ -4763,17 +4752,6 @@
           },
           "errors": {}
         },
-        "scratch": {
-          "supportsES6": true,
-          "baseline": "ReferenceError: print is not defined",
-          "relative": {},
-          "raw": {},
-          "elapsed": {},
-          "count": {},
-          "errors": {
-            "es6": "baseline failed: ReferenceError: print is not defined"
-          }
-        },
         "spread-super": {
           "supportsES6": true,
           "baseline": 31522821.577084403,
@@ -5752,17 +5730,6 @@
             "typescript": 987184
           },
           "errors": {}
-        },
-        "scratch": {
-          "supportsES6": true,
-          "baseline": "ReferenceError: print is not defined",
-          "relative": {},
-          "raw": {},
-          "elapsed": {},
-          "count": {},
-          "errors": {
-            "es6": "baseline failed: ReferenceError: print is not defined"
-          }
         },
         "spread": {
           "supportsES6": true,
@@ -10348,17 +10315,6 @@
           },
           "errors": {}
         },
-        "scratch": {
-          "supportsES6": true,
-          "baseline": "ReferenceError: print is not defined",
-          "relative": {},
-          "raw": {},
-          "elapsed": {},
-          "count": {},
-          "errors": {
-            "es6": "baseline failed: ReferenceError: print is not defined"
-          }
-        },
         "spread": {
           "supportsES6": true,
           "baseline": 29330369.67525263,
@@ -11557,17 +11513,6 @@
             "typescript": 1078285
           },
           "errors": {}
-        },
-        "scratch": {
-          "supportsES6": true,
-          "baseline": "ReferenceError: print is not defined",
-          "relative": {},
-          "raw": {},
-          "elapsed": {},
-          "count": {},
-          "errors": {
-            "es6": "baseline failed: ReferenceError: print is not defined"
-          }
         },
         "spread": {
           "supportsES6": true,
