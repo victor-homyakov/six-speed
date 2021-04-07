@@ -20,11 +20,11 @@ Gulp.task('report:static', function() {
       .pipe(Gulp.dest('site/'));
 });
 Gulp.task('report:bootstrap:fonts', function() {
-  return Gulp.src(['bower_components/bootstrap/fonts/*'], {base: 'bower_components/bootstrap'})
+  return Gulp.src(['node_modules/bootstrap/fonts/*'], {base: 'node_modules/bootstrap'})
       .pipe(Gulp.dest('site/'));
 });
 Gulp.task('report:bootstrap:css', function() {
-  return Gulp.src(['bower_components/bootstrap/dist/css/*'], {base: 'bower_components/bootstrap/dist'})
+  return Gulp.src(['node_modules/bootstrap/dist/css/*'], {base: 'node_modules/bootstrap/dist'})
       .pipe(Gulp.dest('site/'));
 });
 
