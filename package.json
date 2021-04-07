@@ -10,6 +10,7 @@
   ],
   "main": "index.js",
   "scripts": {
+    "build": "gulp build",
     "test": "gulp test",
     "test:sauce": "gulp test:sauce",
     "test:node": "gulp test:node",
@@ -44,7 +45,7 @@
     "imports-loader": "^0.6.4",
     "jquery": "^3.1.0",
     "lodash": "^3.10.1",
-    "microtime": "^2.0.0",
+    "microtime": "^3.0.0",
     "minimist": "^1.1.1",
     "node-libs-browser": "^0.5.2",
     "sauce-tunnel": "^2.2.3",

@@ -5,15 +5,16 @@ ES6 polyfill vs. feature performance tests.
 Report is located at http://fhinkel.github.io/six-speed/
 
 ## Quick start
-clone, `npm install`,
+clone, `nvm use 8`, `npm install`, `npm run build`,
 `npm start`. Open `localhost:9999/#destructuring` to see timings for all tests
 related to destructuring. 
 We currently only care about es5 vs es6. 
 
-Generated files are in `build`. If you makes changes to checked in tests, don't
-forget to run `./node_modules/gulp/bin/gulp.js build`.
+Generated files are in `build`. If you make changes to checked in tests, don't
+forget to run `npm run build` or `./node_modules/gulp/bin/gulp.js build`.
 
-On 403 or 404, run `./node_modules/gulp/bin/gulp.js build` and maybe `npm run test`.
+On 403 or 404, run `npm run build` (or `./node_modules/gulp/bin/gulp.js build`) and maybe `npm run test`.
+
 ## Usage
 
 ```
